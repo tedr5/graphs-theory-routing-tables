@@ -2,7 +2,7 @@
 
 📖 **Description**
 
-A C project for managing network graphs to determine routing tables for each node, implementing algorithms for connectivity verification and shortest path calculation.
+C project for managing network graphs to determine routing tables for each node, implementing algorithms for connectivity verification and shortest path calculation.
 
 ⚙️ **Technologies**
 
